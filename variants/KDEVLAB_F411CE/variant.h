@@ -78,6 +78,7 @@ extern "C" {
 // Could be redefined here if differs from the default one
 // SPI Definitions
 #define PIN_SPI_SS              PA4
+#define PIN_SPI_SS1             PA4
 #define PIN_SPI_MOSI            PA7
 #define PIN_SPI_MISO            PA6
 #define PIN_SPI_SCK             PA5
